@@ -1,0 +1,2 @@
+ZabijSięDB 1.0
+korzysta z mongodb zamiast zabijsiedb

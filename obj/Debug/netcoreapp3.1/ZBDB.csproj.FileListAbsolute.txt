@@ -1,0 +1,13 @@
+C:\Users\table\source\repos\ZBDB\ZBDB\bin\Debug\netcoreapp3.1\ZBDB.exe
+C:\Users\table\source\repos\ZBDB\ZBDB\bin\Debug\netcoreapp3.1\ZBDB.deps.json
+C:\Users\table\source\repos\ZBDB\ZBDB\bin\Debug\netcoreapp3.1\ZBDB.runtimeconfig.json
+C:\Users\table\source\repos\ZBDB\ZBDB\bin\Debug\netcoreapp3.1\ZBDB.runtimeconfig.dev.json
+C:\Users\table\source\repos\ZBDB\ZBDB\bin\Debug\netcoreapp3.1\ZBDB.dll
+C:\Users\table\source\repos\ZBDB\ZBDB\bin\Debug\netcoreapp3.1\ZBDB.pdb
+C:\Users\table\source\repos\ZBDB\ZBDB\obj\Debug\netcoreapp3.1\ZBDB.csprojAssemblyReference.cache
+C:\Users\table\source\repos\ZBDB\ZBDB\obj\Debug\netcoreapp3.1\ZBDB.csproj.CoreCompileInputs.cache
+C:\Users\table\source\repos\ZBDB\ZBDB\obj\Debug\netcoreapp3.1\ZBDB.AssemblyInfoInputs.cache
+C:\Users\table\source\repos\ZBDB\ZBDB\obj\Debug\netcoreapp3.1\ZBDB.AssemblyInfo.cs
+C:\Users\table\source\repos\ZBDB\ZBDB\obj\Debug\netcoreapp3.1\ZBDB.dll
+C:\Users\table\source\repos\ZBDB\ZBDB\obj\Debug\netcoreapp3.1\ZBDB.pdb
+C:\Users\table\source\repos\ZBDB\ZBDB\obj\Debug\netcoreapp3.1\ZBDB.genruntimeconfig.cache
